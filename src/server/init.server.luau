@@ -1,1 +1,1 @@
-print("Hello world, from server!")
+print("Your left Rojo is always gonna broken, use the right one, if the right one is broken, use the left one.")
