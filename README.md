@@ -1,6 +1,6 @@
 Hello!
 
-Script 1:
+"Script 1:"
 ```
 local ContextActionService = game:GetService("ContextActionService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
@@ -45,9 +45,9 @@ local function DomainExpansion(actionName,inputState)
 end
 
 ContextActionService:BindAction("DomainExpansion",DomainExpansion,true,Enum.UserInputType.MouseButton1)
-
-Script 2:
-
+```
+"Script 2:"
+```
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = game:GetService("TweenService")
 local Debris = game:GetService("Debris")
