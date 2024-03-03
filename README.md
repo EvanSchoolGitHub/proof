@@ -1,6 +1,6 @@
 Hello! Script 1 is a client script and Script 2 is a server script, have a good day!
 
-"Script 1:"
+**Script 1:**
 ```
 local ContextActionService = game:GetService("ContextActionService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
@@ -46,7 +46,7 @@ end
 
 ContextActionService:BindAction("DomainExpansion",DomainExpansion,true,Enum.UserInputType.MouseButton1)
 ```
-"Script 2:"
+**Script 2:**
 ```
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = game:GetService("TweenService")
