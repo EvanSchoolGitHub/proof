@@ -1,7 +1,7 @@
 Hello!
 
 Script 1:
-
+```
 local ContextActionService = game:GetService("ContextActionService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Players = game:GetService("Players")
@@ -190,3 +190,4 @@ ReplicatedStorage.DomainExpansion.OnServerEvent:Connect(function(player)
 	domain(rootPart,player)
 	walkspeed(humanoid)
 end)
+```
