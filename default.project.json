@@ -60,13 +60,13 @@
         "Brightness": 2,
         "GlobalShadows": true,
         "Outlines": false,
-        "Technology": "Voxel"
+        "Technology": "Future"
       }
     },
     "SoundService": {
       "$properties": {
-        "RespectFilteringEnabled": true
+        "RespectFilteringEnabled": false
       }
     }
   }
-}
+}s
