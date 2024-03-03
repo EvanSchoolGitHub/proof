@@ -1,4 +1,4 @@
-Hello!
+Hello! Script 1 is a client script and Script 2 is a server script, have a good day!
 
 "Script 1:"
 ```
